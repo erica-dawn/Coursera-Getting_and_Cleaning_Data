@@ -1,15 +1,17 @@
 # Identifiers
 subject - Test subject ID
+
 activity - Activity being performed when observation was made
 
 # Measurements
-timeBodyAcc_mean_X    
+timeBodyAcc_mean_X   
 timeBodyAcc_mean_Y      
 timeBodyAcc_mean_Z      
 timeBodyAcc_std_X       
 timeBodyAcc_std_Y        
 timeBodyAcc_std_Z       
 timeGravityAcc_mean_X
+
 timeGravityAcc_mean_Y    
 timeGravityAcc_mean_Z    
 timeGravityAcc_std_X   
