@@ -1,8 +1,8 @@
-#Identifiers
+# Identifiers
 subject - Test subject ID
 activity - Activity being performed when observation was made
 
-#Measurements
+# Measurements
 timeBodyAcc_mean_X    
 timeBodyAcc_mean_Y      
 timeBodyAcc_mean_Z      
@@ -70,7 +70,7 @@ freqBodyGyroMag_std
 freqBodyGyroJerkMag_mean
 freqBodyGyroJerkMag_std
 
-#Activity labels
+# Activity labels
 walking (1)    
 walking_upstairs (2)  
 walking_downstairs (3)
